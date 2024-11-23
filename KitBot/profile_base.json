@@ -1,0 +1,172 @@
+{
+    "profile": [
+        {
+            "chat_id": "1448632798",
+            "id": 10,
+            "admin_lvl": 4,
+            "status": "Создатель :D ",
+            "banned": "False",
+            "register_date": "2024-05-13 21:59:00.446698",
+            "bonus_limit": 100000,
+            "balance": 900000,
+            "balance_btc": 100,
+            "business": {
+                "name": "Сеть магазинов огузок",
+                "profit": 50000,
+                "balance": 1600000
+            },
+            "farm": {
+                "name": "None",
+                "profit": 5,
+                "x": 10,
+                "balance": 0
+            },
+            "city": {
+                "name": "Кладбище",
+                "lvl": 10,
+                "profit": 50000,
+                "balance": 11500000
+            }
+        },
+        {
+            "chat_id": "6880782124",
+            "id": 11,
+            "admin_lvl": 3,
+            "status": "Чурка",
+            "banned": "False",
+            "register_date": "2024-05-27 16:34:33.852021",
+            "bonus_limit": 100000,
+            "balance": 100000,
+            "balance_btc": 0,
+            "business": {
+                "name": "Фабрика нигеров",
+                "profit": 1000000,
+                "balance": 30000000
+            },
+            "farm": {
+                "name": "SS 4009",
+                "profit": 10,
+                "x": 10,
+                "balance": 2500
+            },
+            "city": {
+                "name": "Гавно",
+                "lvl": 20,
+                "profit": 50000,
+                "balance": 25000000
+            }
+        },
+        {
+            "chat_id": "6259067220",
+            "id": 13,
+            "admin_lvl": 0,
+            "status": "Игрок",
+            "banned": "False",
+            "register_date": "2024-07-23 17:03:07.015547",
+            "bonus_limit": 100000,
+            "balance": 9100000,
+            "balance_btc": 0,
+            "business": {
+                "name": "Сеть магазинов огузок",
+                "profit": 50000,
+                "balance": 200000
+            },
+            "farm": {
+                "name": "None",
+                "profit": 0,
+                "x": 0,
+                "balance": 0
+            },
+            "city": {
+                "name": "None",
+                "lvl": 0,
+                "profit": 50000,
+                "balance": 0
+            }
+        },
+        {
+            "chat_id": "5687801935",
+            "id": 14,
+            "admin_lvl": 0,
+            "status": "Игрок",
+            "banned": "False",
+            "register_date": "2024-07-23 17:19:03.543211",
+            "bonus_limit": 100000,
+            "balance": 10000000,
+            "balance_btc": 0,
+            "business": {
+                "name": "None",
+                "profit": 0,
+                "balance": 0
+            },
+            "farm": {
+                "name": "None",
+                "profit": 0,
+                "x": 0,
+                "balance": 0
+            },
+            "city": {
+                "name": "None",
+                "lvl": 0,
+                "profit": 50000,
+                "balance": 0
+            }
+        },
+        {
+            "chat_id": "5173638436",
+            "id": 15,
+            "admin_lvl": 0,
+            "status": "Игрок",
+            "banned": "False",
+            "register_date": "2024-07-23 17:48:39.182406",
+            "bonus_limit": 100000,
+            "balance": 10000000,
+            "balance_btc": 0,
+            "business": {
+                "name": "None",
+                "profit": 0,
+                "balance": 0
+            },
+            "farm": {
+                "name": "None",
+                "profit": 0,
+                "x": 0,
+                "balance": 0
+            },
+            "city": {
+                "name": "None",
+                "lvl": 0,
+                "profit": 50000,
+                "balance": 0
+            }
+        },
+        {
+            "chat_id": "1956476211",
+            "id": 17,
+            "admin_lvl": 0,
+            "status": "Игрок",
+            "banned": "False",
+            "register_date": "2024-07-25 17:53:42.059922",
+            "bonus_limit": 100000,
+            "balance": 10000000,
+            "balance_btc": 0,
+            "business": {
+                "name": "None",
+                "profit": 0,
+                "balance": 0
+            },
+            "farm": {
+                "name": "None",
+                "profit": 0,
+                "x": 0,
+                "balance": 0
+            },
+            "city": {
+                "name": "None",
+                "lvl": 0,
+                "profit": 50000,
+                "balance": 0
+            }
+        }
+    ]
+}
